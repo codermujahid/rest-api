@@ -4,7 +4,10 @@
 
 Fast, unopinionated, minimalist web framework for [Node.js](http://nodejs.org).
 
-
+[![Express Logo](/public/image/1.svg)](https://packagephobia.com/result?p=express)
+[![Express Logo](/public/image/1.svg)](https://npmcharts.com/compare/express?minimal=true)
+[![Express Logo](/public/image/1.svg)](https://www.npmjs.com/package/express)
+ 
 
 ## REST API with Express Server
 
