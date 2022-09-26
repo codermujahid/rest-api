@@ -16,3 +16,5 @@ const { getAllUser, createUser } = require('../controllers/userController');
  // exports router
  module.exports = router;
  
+
+
