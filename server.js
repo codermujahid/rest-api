@@ -2,6 +2,8 @@ const express = require('express');
 const colors = require('colors');
 const dotenv = require('dotenv').config();
 const userRouter = require('./routes/user');
+const teacherRouter = require('./routes/teacher');
+
 
 
  // init environment variable
@@ -20,6 +22,7 @@ const userRouter = require('./routes/user');
 
 // api routes
 app.use('/api/v1/user' , userRouter);
+app.use('/api/v1/teacher' , teacherRouter);
 
 
 
